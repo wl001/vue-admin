@@ -38,7 +38,7 @@
 ├── index.html                                   // 入口html文件
 ```
 ### 项目运行
-  ![image](https://github.com/wl001/vue-admin/blob/master/static/vue-element-admin.gif
+  ![image](https://github.com/wl001/vue-admin/blob/master/static/vue-element-admin.gif)
 - Axios不支持JSONP，需要另外安装jsonp模块实现
 ### 中英文切换 按需加载里定制 i18n
 - lang/index.js
